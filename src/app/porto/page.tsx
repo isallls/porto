@@ -29,7 +29,7 @@ const projects = [
     tech: ["HTML5", "CSS3", "TypeScript", "Next.js", "TailwindCSS"],
     techIcons: [FaHtml5, FaCss3Alt, SiTypescript, SiNextdotjs, SiTailwindcss],
     image: "/images/porto/porto.png",
-    link: "https://faisal-portfolio.com",
+    link: "",
   },
   {
     name: "Movie Tokko Web",
