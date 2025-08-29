@@ -37,7 +37,7 @@ const projects = [
     tech: ["HTML5", "CSS3", "OMDb API"],
     techIcons: [FaHtml5, FaCss3Alt],
     image: "/images/porto/movie.png",
-    link: "https://toko-online.com",
+    link: "",
   },
   {
     name: "API Sistem Pakar",
